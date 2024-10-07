@@ -1,0 +1,52 @@
+debug: Subscribing to txAdmin:events:adminAuth {"timestamp":"2024-10-07T00:38:14.674Z"}
+debug: Registering net event txAdmin:events:adminAuth {"timestamp":"2024-10-07T00:38:14.678Z"}
+debug: Module TestModule loaded successfully {"timestamp":"2024-10-07T00:38:14.681Z"}
+debug: Module TestModule loaded successfully {"timestamp":"2024-10-07T00:38:14.683Z"}
+debug: Module TestModule unloaded successfully {"timestamp":"2024-10-07T00:38:14.684Z"}
+debug: Module TestModule loaded successfully {"timestamp":"2024-10-07T00:38:14.686Z"}
+debug: Module TestModule loaded successfully {"timestamp":"2024-10-07T00:38:14.714Z"}
+debug: Module TestModuleDisabled is disabled in the config {"timestamp":"2024-10-07T00:38:14.716Z"}
+debug: Module TestModule loaded successfully {"timestamp":"2024-10-07T00:38:14.718Z"}
+debug: Module TestModule loaded successfully {"timestamp":"2024-10-07T00:38:14.719Z"}
+debug: Module TestModule unloaded successfully {"timestamp":"2024-10-07T00:38:14.720Z"}
+debug: Module TestModule loaded successfully {"timestamp":"2024-10-07T00:38:14.721Z"}
+debug: Module TestModule loaded successfully {"timestamp":"2024-10-07T00:38:14.723Z"}
+debug: Module TestModule unloaded successfully {"timestamp":"2024-10-07T00:38:14.723Z"}
+debug: Module TestModule loaded successfully {"timestamp":"2024-10-07T00:38:14.725Z"}
+debug: Module TestModule loaded successfully {"timestamp":"2024-10-07T00:38:14.727Z"}
+debug: Module TestModuleDisabled is disabled in the config {"timestamp":"2024-10-07T00:38:14.730Z"}
+debug: Subscribing to txAdmin:events:adminAuth {"timestamp":"2024-10-07T00:38:14.713Z"}
+debug: Registering net event txAdmin:events:adminAuth {"timestamp":"2024-10-07T00:38:14.717Z"}
+error: Failed to load module {"timestamp":"2024-10-07T00:38:14.749Z"}
+debug: Subscribing to event1 {"timestamp":"2024-10-07T00:38:14.712Z"}
+debug: Registering net event event1 {"timestamp":"2024-10-07T00:38:14.716Z"}
+debug: Subscribing to event1 {"timestamp":"2024-10-07T00:38:14.721Z"}
+debug: Subscribing to event2 {"timestamp":"2024-10-07T00:38:14.722Z"}
+debug: Registering net event event2 {"timestamp":"2024-10-07T00:38:14.722Z"}
+debug: Subscribing to event1 {"timestamp":"2024-10-07T00:38:14.724Z"}
+debug: Subscribing to event1 {"timestamp":"2024-10-07T00:38:14.749Z"}
+debug: Unsubscribing from event1 {"timestamp":"2024-10-07T00:38:14.749Z"}
+debug: Subscribing to event1 {"timestamp":"2024-10-07T00:38:14.751Z"}
+debug: Subscribing to event2 {"timestamp":"2024-10-07T00:38:14.751Z"}
+debug: Unsubscribing from event1 {"timestamp":"2024-10-07T00:38:14.752Z"}
+debug: Unsubscribing from event2 {"timestamp":"2024-10-07T00:38:14.752Z"}
+debug: Subscribing to event1 {"timestamp":"2024-10-07T00:38:14.754Z"}
+debug: Unsubscribing from event1 {"timestamp":"2024-10-07T00:38:14.755Z"}
+debug: Subscribing to event1 {"timestamp":"2024-10-07T00:38:14.759Z"}
+debug: Subscribing to event1 {"timestamp":"2024-10-07T00:38:14.760Z"}
+debug: Subscribing to txAdmin:events:adminAuth {"timestamp":"2024-10-07T00:38:14.740Z"}
+debug: Registering net event txAdmin:events:adminAuth {"timestamp":"2024-10-07T00:38:14.746Z"}
+debug: Registered command test-command {"timestamp":"2024-10-07T00:38:14.761Z"}
+debug: Registered command test-command {"timestamp":"2024-10-07T00:38:14.768Z"}
+debug: Registered command test-command {"timestamp":"2024-10-07T00:38:14.771Z"}
+debug: Executed command test-command with args: arg1,arg2 {"timestamp":"2024-10-07T00:38:14.772Z"}
+debug: Failed to execute screenshot command. Screenshot-basic is not started or missing. {"timestamp":"2024-10-07T00:38:14.865Z"}
+debug: Failed to execute screenshot command. No discord webhook was found. {"timestamp":"2024-10-07T00:38:14.868Z"}
+debug: Subscribing to txAdmin:events:adminAuth {"timestamp":"2024-10-07T00:38:14.893Z"}
+debug: Registering net event txAdmin:events:adminAuth {"timestamp":"2024-10-07T00:38:14.896Z"}
+debug: Subscribing to txAdmin:events:adminAuth {"timestamp":"2024-10-07T00:38:14.910Z"}
+debug: Registering net event txAdmin:events:adminAuth {"timestamp":"2024-10-07T00:38:14.913Z"}
+debug: Failed to send webhook request. Screenshot-basic is not started or missing. {"timestamp":"2024-10-07T00:38:14.914Z"}
+debug: Banned player 1 for reason: TestViolation {"timestamp":"2024-10-07T00:38:14.914Z"}
+debug: Banned player 1 for reason: TestViolation {"timestamp":"2024-10-07T00:38:14.918Z"}
+error: Failed to load module {"timestamp":"2024-10-07T00:38:15.039Z"}
