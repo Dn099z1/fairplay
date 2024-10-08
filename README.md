@@ -16,8 +16,6 @@ FairPlay é a solução definitiva para garantir uma experiência de jogo justa 
   - Sistema de relatórios que fornece feedback imediato aos administradores do servidor sobre atividades suspeitas, permitindo ações rápidas e eficazes.
 
 
-- **Privacidade Garantida:**
-  - Comprometido com a privacidade dos usuários, o FairPlay não coleta dados pessoais dos jogadores, focando apenas em garantir uma experiência limpa e justa.
 
 ## Como Funciona
 
