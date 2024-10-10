@@ -4,7 +4,7 @@
 
 
 Esse Projeto é feito com base Icarus Anticheat com modulos refatorados para melhor detecção
-Icaurs :https://github.com/EinS4ckZwiebeln/IcarusAdvancedAnticheat
+  Icarus : https://github.com/EinS4ckZwiebeln/IcarusAdvancedAnticheat
 
 FairPlay é a solução definitiva para garantir uma experiência de jogo justa e equilibrada no FiveM. Desenvolvido com tecnologia de ponta, o FairPlay foi projetado para detectar e neutralizar trapaças de forma eficaz, promovendo um ambiente de jogo saudável para todos os jogadores.
 
